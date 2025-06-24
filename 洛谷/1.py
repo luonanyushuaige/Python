@@ -1,0 +1,7 @@
+t ,n= input().split( )
+t = float(t)
+n = int(n)
+a = float(t/n)
+a = round(a,3)
+print(a)
+print(2*n)
