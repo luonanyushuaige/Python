@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.wenjun.codeepiphany.luogu.settings">
+    <option name="languageSettings">
+      <list>
+        <LanguageSettingsState sourceFolder="D:\Project of python\洛谷" language="python" languageVersion="3" fileNameTemplate="123" codeTemplate="a = 1" />
+      </list>
+    </option>
+    <option name="queryCriteria">
+      <map>
+        <entry key="LuoGuChallengesView-latestUI" value="SearchByKeyword" />
+        <entry key="LuoGuKeywordQueryPresenter-criteria" value="{&quot;keyword&quot;:&quot;深基2.例8&quot;,&quot;orderBy&quot;:null}" />
+        <entry key="LuoGuKeywordQueryPresenter-pageSize" value="20" />
+        <entry key="LuoGuParametersQueryPresenter-criteria" value="{&quot;selectedQuestionBank&quot;:null,&quot;selectedDifficulty&quot;:null,&quot;selectedTags&quot;:[],&quot;orderBy&quot;:null}" />
+        <entry key="LuoGuParametersQueryPresenter-pageSize" value="50" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.wenjun.codeepiphany.leetcodecn.settings">
+    <option name="languageSettings">
+      <list>
+        <LanguageSettingsState sourceFolder="D:\Project of python\力扣" language="python" languageVersion="3" fileNameTemplate="123" codeTemplate="1" />
+      </list>
+    </option>
+    <option name="queryCriteria">
+      <map>
+        <entry key="LeetCodeChallengesView-lastUI" value="QueryParameters" />
+        <entry key="LeetCodeParametersQueryPresenter-criteria" value="{&quot;selectedCategory&quot;:null,&quot;selectedFavorite&quot;:{&quot;id&quot;:&quot;RzLylpxP&quot;,&quot;name&quot;:&quot;数据结构与算法（Python 语言版）&quot;,&quot;type&quot;:&quot;leetcode_favorites&quot;},&quot;selectedDifficulty&quot;:&quot;easy&quot;,&quot;selectedStatus&quot;:null,&quot;tags&quot;:[],&quot;orderBy&quot;:null}" />
+        <entry key="LeetCodeParametersQueryPresenter-pageSize" value="50" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.wenjun.codeepiphany.challenge.settings">
+    <option name="challenges">
+      <map>
+        <entry key="$PROJECT_DIR$/力扣/123.py">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1937539933841526784" />
+              <option name="challengeLanguageId" value="1937539933992521728" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[0,1]" />
+                  <option name="input" value="[2,7,11,15]&#10;9" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[1,2]" />
+                  <option name="input" value="[3,2,4]&#10;6" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[0,1]" />
+                  <option name="input" value="[3,3]&#10;6" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="leetcodecn" />
+              <option name="language" value="python" />
+              <option name="solutionId" value="1937539934005104640" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="[0,1]" />
+                  <option name="input" value="[2,7,11,15]&#10;9" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[1,2]" />
+                  <option name="input" value="[3,2,4]&#10;6" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="[0,1]" />
+                  <option name="input" value="[3,3]&#10;6" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/洛谷/1.py">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1937541785316364288" />
+              <option name="challengeLanguageId" value="1937541785333141504" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="166.667&#10;6" />
+                  <option name="input" value="500.0 3" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="luogu" />
+              <option name="language" value="python" />
+              <option name="solutionId" value="1937541785337335808" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="166.667&#10;6" />
+                  <option name="input" value="500.0 3" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/洛谷/123.py">
+          <value>
+            <ChallengeSettingsStateItem>
+              <option name="challengeId" value="1937541270339719168" />
+              <option name="challengeLanguageId" value="1937541270356496384" />
+              <option name="defaultTestCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="1 2" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="31542" />
+                  <option name="input" value="10230 21312" />
+                </TestCase>
+              </option>
+              <option name="dojo" value="luogu" />
+              <option name="language" value="python" />
+              <option name="solutionId" value="1937541270360690688" />
+              <option name="testCases">
+                <TestCase>
+                  <option name="expectedOutput" value="3" />
+                  <option name="input" value="1 2" />
+                </TestCase>
+                <TestCase>
+                  <option name="expectedOutput" value="31542" />
+                  <option name="input" value="10230 21312" />
+                </TestCase>
+              </option>
+            </ChallengeSettingsStateItem>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
