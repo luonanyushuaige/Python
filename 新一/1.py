@@ -39,20 +39,20 @@
 # s = round(s, 1)
 # print(s)
 
-s,v = input().split()
-s = int(s)
-v = int(v)
-if s%v==0:
-    t = s//v + 10
-else:
-    t = s//v + 11
+# s,v = input().split()
+# s = int(s)
+# v = int(v)
+# if s%v==0:
+#     t = s//v + 10
+# else:
+#     t = s//v + 11
+# a = t//60
+# b = t%60
+# c = 7-a
+# d = 60-b
+# if d < 10:
+#     print("0"+str(c)+":0"+str(d))
+# else:
+#     print("0"+str(c)+":"+str(d))
 
 
-a = t//60
-b = t%60
-c = 7-a
-d = 60-b
-if d < 10:
-    print("0"+str(c)+":0"+str(d))
-else:
-    print("0"+str(c)+":"+str(d))
